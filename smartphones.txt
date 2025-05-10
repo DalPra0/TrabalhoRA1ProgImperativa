@@ -1,0 +1,160 @@
+Xiaomi
+Redmi A1
+2023
+32
+749.00
+Motorola
+Moto E7
+2020
+32
+799.00
+Motorola
+Moto E20
+2022
+32
+849.00
+Xiaomi
+Redmi 9
+2020
+32
+899.00
+Motorola
+Moto G5
+2018
+16
+899.99
+Samsung
+Galaxy A10
+2019
+32
+999.00
+Motorola
+Moto G9
+2020
+64
+1049.00
+Samsung
+Galaxy M12
+2021
+64
+1099.00
+Motorola
+One Fusion
+2020
+64
+1149.00
+Samsung
+Galaxy A14
+2023
+64
+1149.00
+Xiaomi
+Redmi Note 8
+2020
+64
+1199.50
+Motorola
+Moto G Power
+2021
+64
+1249.00
+Xiaomi
+Poco X3
+2021
+64
+1399.00
+Xiaomi
+Redmi Note 11
+2022
+64
+1449.00
+Samsung
+Galaxy A32
+2021
+128
+1499.90
+Xiaomi
+Redmi Note 10
+2021
+128
+1599.90
+Apple
+iPhone 7
+2017
+32
+1599.99
+Samsung
+Galaxy A52
+2021
+128
+1749.00
+Motorola
+Moto G Stylus
+2022
+128
+1899.00
+a
+b
+2020
+64
+2000.00
+teste
+teste
+2020
+64
+2000.00
+Samsung
+Galaxy S20 FE
+2020
+128
+2299.00
+Motorola
+Edge 20
+2021
+128
+2399.00
+Samsung
+Galaxy S21
+2021
+128
+2999.00
+Xiaomi
+Mi 11
+2021
+128
+3199.00
+Apple
+iPhone SE
+2020
+64
+3499.90
+Apple
+iPhone XR
+2018
+64
+3799.90
+Apple
+iPhone 11
+2019
+64
+3999.90
+Apple
+iPhone 12
+2021
+128
+4599.90
+Apple
+iPhone 13
+2022
+128
+5099.90
+Apple
+iPhone 14
+2023
+128
+5599.90
+Samsung
+Galaxy Z Flip
+2022
+256
+6299.00
